@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Detect AI</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="scan-line"></div>
+  
+  <div class="popup-container">
+    <div class="header">
+      <img src="img.png" alt="Detect AI Logo" class="logo">
+    </div>
+
+    <h1>Detect AI - SO</h1>
+    <p>It analyzes code on the page to detect AI-generated content.</p>
+
+    <div id="resultsSection" style="display: none;">
+      <h2>Detection Results</h2>
+      <div id="verdict" class="result-item"></div>
+      <div id="accuracy" class="result-item"></div>
+    </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
