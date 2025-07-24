@@ -1,4 +1,3 @@
-// background.js - No changes needed as it already handles the message passing
 chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
   if (msg.type === "analyze_code") {
     fetch("http://localhost:5000/detect", {
