@@ -1,4 +1,3 @@
-// content.js - Automatically analyze all answers on Stack Overflow
 function getAllAnswersWithCode() {
   const answers = document.querySelectorAll('.answer:not(.question)');
   if (!answers || answers.length === 0) return { error: "NO_ANSWERS_FOUND" };
@@ -48,7 +47,7 @@ function displayConfidenceScore(answerElement, positionElement, score, isAI, isV
     ${isVerified ? '<span class="verified-badge"></span>' : ''}
   `;
 
-  // Position the element
+  // Positioning the element
   if (positionElement) {
     const header = positionElement.querySelector('.post-text') || positionElement;
     if (header) {
@@ -59,7 +58,7 @@ function displayConfidenceScore(answerElement, positionElement, score, isAI, isV
   }
 }
 
-// Add styles for the confidence display
+// Adding styles for the confidence display
 const style = document.createElement('style');
 style.textContent = `
   .ai-confidence-display {
@@ -119,7 +118,6 @@ function analyzeAllAnswers() {
     return;
   }
 
-  // ✅ Fetch tags fresh for each analysis
   const questionTags = getCurrentQuestionTags();
   console.log("Current question tags:", questionTags); // Debug log
 
