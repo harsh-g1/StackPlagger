@@ -18,21 +18,20 @@ clf = None
 model_lock = Lock()
 MODEL_PATH = "CPU_human_ai_classifier.pkl"
 
-ALLOWED_TAGS = {"python", "java"}  # ✅ Allowed tags
+ALLOWED_TAGS = {"python", "java"}  
 
 
 def load_model():
     global model, clf
     with model_lock:
         if model is None or clf is None:
-            print("🔍 Loading embedding model and classifier...")
-            model = SentenceTransformer("all-mpnet-base-v2")  # ✅ Must match training
+            print("Loading embedding model and classifier...")
+            model = SentenceTransformer("all-mpnet-base-v2")  
             with open(MODEL_PATH, "rb") as f:
                 clf = pickle.load(f)
-            print("✅ Both models loaded!")
 
 
-# ✅ Stylometric feature extractor (example with 17 features)
+# Stylometric feature extractor (example with 17 features)
 def extract_stylometric_features(text):
     lines = text.splitlines()
     num_lines = len(lines)
@@ -60,14 +59,14 @@ def extract_stylometric_features(text):
     return np.array(features, dtype=float)
 
 
-# ✅ Predict function for sklearn
+#Predict function for sklearn
 def predict_ai_generated(code_snippet):
     # Embedding
-    embedding = model.encode([code_snippet])[0]  # shape: (768,)
+    embedding = model.encode([code_snippet])[0]  
     # Stylometric features
-    style = extract_stylometric_features(code_snippet)  # shape: (17,)
+    style = extract_stylometric_features(code_snippet)  
     # Combine
-    features = np.hstack((embedding, style)).reshape(1, -1)  # shape: (1, 785)
+    features = np.hstack((embedding, style)).reshape(1, -1)  
 
     # Predict
     prob = clf.predict_proba(features)[0][1]
@@ -96,8 +95,8 @@ def detect():
         probability = predict_ai_generated(code)
 
         result = {
-            "ai_probability": float(probability),      # also guard against np.float32
-            "is_ai_generated": bool(probability > 0.5) # ensures proper JSON serialization
+            "ai_probability": float(probability),     
+            "is_ai_generated": bool(probability > 0.5) 
         }
         print(f"Sending response: {result}")
         return jsonify(result)
