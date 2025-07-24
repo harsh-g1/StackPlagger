@@ -45,7 +45,7 @@ function displayConfidenceScore(answerElement, positionElement, score, isAI, isV
   scoreElement.innerHTML = `
     <span class="ai-confidence-label">AI Confidence:</span>
     <span class="ai-confidence-value">${score}%</span>
-    ${isVerified ? '<span class="verified-badge">✓ Verified</span>' : ''}
+    ${isVerified ? '<span class="verified-badge"></span>' : ''}
   `;
 
   // Position the element
