@@ -25,15 +25,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-### 3. Start the Server
-
-Navigate to the backend folder then run:
-
-```bash
-python app.py
-```
-
-### 4. Load the Chrome Extension
+### 3. Load the Chrome Extension
 
 1. Open **Google Chrome**
 2. Go to `chrome://extensions/`
@@ -41,6 +33,13 @@ python app.py
 4. Click **Load unpacked**
 5. Select the folder containing the extension code
 
+### 4. Start the Server
+
+Navigate to the backend folder then run:
+
+```bash
+python app.py
+```
 ---
 
 ## Usage
