@@ -1,0 +1,1969 @@
+Epoch 1: 100%|██████████| 749/749 [04:28<00:00,  2.79it/s]
+Epoch 1 loss: 252.5928
+Epoch 2: 100%|██████████| 749/749 [04:31<00:00,  2.76it/s]
+Epoch 2 loss: 113.6856
+Epoch 3: 100%|██████████| 749/749 [04:31<00:00,  2.76it/s]
+Epoch 3 loss: 49.5809
+Extracting Features: 100%|██████████| 749/749 [01:29<00:00,  8.34it/s]
+
+===== Evaluating Test_0.csv =====
+Extracting Features: 100%|██████████| 122/122 [00:14<00:00,  8.14it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.8719262295081968
+Precision: 0.9139072847682119
+Recall: 0.828
+F1 Score: 0.8688352570828961
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.92      0.87       476
+           1       0.91      0.83      0.87       500
+
+    accuracy                           0.87       976
+   macro avg       0.87      0.87      0.87       976
+weighted avg       0.88      0.87      0.87       976
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:16] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:21:22] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.8770491803278688
+Precision: 0.9185022026431718
+Recall: 0.834
+F1 Score: 0.8742138364779874
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.92      0.88       476
+           1       0.92      0.83      0.87       500
+
+    accuracy                           0.88       976
+   macro avg       0.88      0.88      0.88       976
+weighted avg       0.88      0.88      0.88       976
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.8596311475409836
+Precision: 0.8989010989010989
+Recall: 0.818
+F1 Score: 0.856544502617801
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.90      0.86       476
+           1       0.90      0.82      0.86       500
+
+    accuracy                           0.86       976
+   macro avg       0.86      0.86      0.86       976
+weighted avg       0.86      0.86      0.86       976
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.8473360655737705
+Precision: 0.9333333333333333
+Recall: 0.756
+F1 Score: 0.8353591160220994
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.94      0.86       476
+           1       0.93      0.76      0.84       500
+
+    accuracy                           0.85       976
+   macro avg       0.86      0.85      0.85       976
+weighted avg       0.86      0.85      0.85       976
+
+
+===== Evaluating Test_1.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.42it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.813
+Precision: 0.8038834951456311
+Recall: 0.828
+F1 Score: 0.8157635467980295
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.80      0.81       500
+           1       0.80      0.83      0.82       500
+
+    accuracy                           0.81      1000
+   macro avg       0.81      0.81      0.81      1000
+weighted avg       0.81      0.81      0.81      1000
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:14] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:15] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:15] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:15] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:15] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:15] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:24:21] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.808
+Precision: 0.7927756653992395
+Recall: 0.834
+F1 Score: 0.8128654970760234
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.78      0.80       500
+           1       0.79      0.83      0.81       500
+
+    accuracy                           0.81      1000
+   macro avg       0.81      0.81      0.81      1000
+weighted avg       0.81      0.81      0.81      1000
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.799
+Precision: 0.7880539499036608
+Recall: 0.818
+F1 Score: 0.802747791952895
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.78      0.80       500
+           1       0.79      0.82      0.80       500
+
+    accuracy                           0.80      1000
+   macro avg       0.80      0.80      0.80      1000
+weighted avg       0.80      0.80      0.80      1000
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.813
+Precision: 0.8532731376975169
+Recall: 0.756
+F1 Score: 0.8016967126193001
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.87      0.82       500
+           1       0.85      0.76      0.80       500
+
+    accuracy                           0.81      1000
+   macro avg       0.82      0.81      0.81      1000
+weighted avg       0.82      0.81      0.81      1000
+
+
+===== Evaluating Test_2.csv =====
+Extracting Features: 100%|██████████| 126/126 [00:14<00:00,  8.52it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.8061938061938062
+Precision: 0.7931034482758621
+Recall: 0.828
+F1 Score: 0.8101761252446184
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.78      0.80       501
+           1       0.79      0.83      0.81       500
+
+    accuracy                           0.81      1001
+   macro avg       0.81      0.81      0.81      1001
+weighted avg       0.81      0.81      0.81      1001
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:27:12] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.8011988011988012
+Precision: 0.7823639774859287
+Recall: 0.834
+F1 Score: 0.8073572120038722
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.77      0.79       501
+           1       0.78      0.83      0.81       500
+
+    accuracy                           0.80      1001
+   macro avg       0.80      0.80      0.80      1001
+weighted avg       0.80      0.80      0.80      1001
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.7832167832167832
+Precision: 0.7644859813084112
+Recall: 0.818
+F1 Score: 0.7903381642512077
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.75      0.78       501
+           1       0.76      0.82      0.79       500
+
+    accuracy                           0.78      1001
+   macro avg       0.78      0.78      0.78      1001
+weighted avg       0.78      0.78      0.78      1001
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.8221778221778222
+Precision: 0.8709677419354839
+Recall: 0.756
+F1 Score: 0.8094218415417559
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.89      0.83       501
+           1       0.87      0.76      0.81       500
+
+    accuracy                           0.82      1001
+   macro avg       0.83      0.82      0.82      1001
+weighted avg       0.83      0.82      0.82      1001
+
+
+===== Evaluating Test_3.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.51it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.7917917917917918
+Precision: 0.7723880597014925
+Recall: 0.828
+F1 Score: 0.7992277992277992
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.76      0.78       499
+           1       0.77      0.83      0.80       500
+
+    accuracy                           0.79       999
+   macro avg       0.79      0.79      0.79       999
+weighted avg       0.79      0.79      0.79       999
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:30:07] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.7937937937937938
+Precision: 0.7722222222222223
+Recall: 0.834
+F1 Score: 0.801923076923077
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.75      0.78       499
+           1       0.77      0.83      0.80       500
+
+    accuracy                           0.79       999
+   macro avg       0.80      0.79      0.79       999
+weighted avg       0.80      0.79      0.79       999
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.7767767767767768
+Precision: 0.756007393715342
+Recall: 0.818
+F1 Score: 0.7857829010566763
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.74      0.77       499
+           1       0.76      0.82      0.79       500
+
+    accuracy                           0.78       999
+   macro avg       0.78      0.78      0.78       999
+weighted avg       0.78      0.78      0.78       999
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.7977977977977978
+Precision: 0.8253275109170306
+Recall: 0.756
+F1 Score: 0.7891440501043842
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.84      0.81       499
+           1       0.83      0.76      0.79       500
+
+    accuracy                           0.80       999
+   macro avg       0.80      0.80      0.80       999
+weighted avg       0.80      0.80      0.80       999
+
+
+===== Evaluating Test_4.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.46it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.762
+Precision: 0.7314487632508834
+Recall: 0.828
+F1 Score: 0.776735459662289
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.70      0.75       500
+           1       0.73      0.83      0.78       500
+
+    accuracy                           0.76      1000
+   macro avg       0.77      0.76      0.76      1000
+weighted avg       0.77      0.76      0.76      1000
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:32:59] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:33:06] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.768
+Precision: 0.7367491166077739
+Recall: 0.834
+F1 Score: 0.7823639774859287
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.70      0.75       500
+           1       0.74      0.83      0.78       500
+
+    accuracy                           0.77      1000
+   macro avg       0.77      0.77      0.77      1000
+weighted avg       0.77      0.77      0.77      1000
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.766
+Precision: 0.7409420289855072
+Recall: 0.818
+F1 Score: 0.7775665399239544
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.71      0.75       500
+           1       0.74      0.82      0.78       500
+
+    accuracy                           0.77      1000
+   macro avg       0.77      0.77      0.77      1000
+weighted avg       0.77      0.77      0.77      1000
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.77
+Precision: 0.7777777777777778
+Recall: 0.756
+F1 Score: 0.7667342799188641
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.78      0.77       500
+           1       0.78      0.76      0.77       500
+
+    accuracy                           0.77      1000
+   macro avg       0.77      0.77      0.77      1000
+weighted avg       0.77      0.77      0.77      1000
+
+
+===== Evaluating Test_5.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.38it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.874
+Precision: 0.9118942731277533
+Recall: 0.828
+F1 Score: 0.8679245283018868
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.92      0.88       500
+           1       0.91      0.83      0.87       500
+
+    accuracy                           0.87      1000
+   macro avg       0.88      0.87      0.87      1000
+weighted avg       0.88      0.87      0.87      1000
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:51] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:52] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:52] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:52] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:52] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:52] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:35:58] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.875
+Precision: 0.9084967320261438
+Recall: 0.834
+F1 Score: 0.8696558915537018
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.92      0.88       500
+           1       0.91      0.83      0.87       500
+
+    accuracy                           0.88      1000
+   macro avg       0.88      0.88      0.87      1000
+weighted avg       0.88      0.88      0.87      1000
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.857
+Precision: 0.8872017353579176
+Recall: 0.818
+F1 Score: 0.8511966701352758
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.90      0.86       500
+           1       0.89      0.82      0.85       500
+
+    accuracy                           0.86      1000
+   macro avg       0.86      0.86      0.86      1000
+weighted avg       0.86      0.86      0.86      1000
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.856
+Precision: 0.945
+Recall: 0.756
+F1 Score: 0.84
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.96      0.87       500
+           1       0.94      0.76      0.84       500
+
+    accuracy                           0.86      1000
+   macro avg       0.87      0.86      0.85      1000
+weighted avg       0.87      0.86      0.85      1000
+
+
+===== Evaluating Test_6.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.52it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.771859296482412
+Precision: 0.745945945945946
+Recall: 0.828
+F1 Score: 0.7848341232227488
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       495
+           1       0.75      0.83      0.78       500
+
+    accuracy                           0.77       995
+   macro avg       0.78      0.77      0.77       995
+weighted avg       0.78      0.77      0.77       995
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:46] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:38:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.7748743718592965
+Precision: 0.7473118279569892
+Recall: 0.834
+F1 Score: 0.7882797731568998
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.72      0.76       495
+           1       0.75      0.83      0.79       500
+
+    accuracy                           0.77       995
+   macro avg       0.78      0.77      0.77       995
+weighted avg       0.78      0.77      0.77       995
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.7758793969849246
+Precision: 0.756007393715342
+Recall: 0.818
+F1 Score: 0.7857829010566763
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.77       495
+           1       0.76      0.82      0.79       500
+
+    accuracy                           0.78       995
+   macro avg       0.78      0.78      0.78       995
+weighted avg       0.78      0.78      0.78       995
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.7989949748743719
+Precision: 0.8289473684210527
+Recall: 0.756
+F1 Score: 0.7907949790794979
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.84      0.81       495
+           1       0.83      0.76      0.79       500
+
+    accuracy                           0.80       995
+   macro avg       0.80      0.80      0.80       995
+weighted avg       0.80      0.80      0.80       995
+
+
+===== Evaluating Test_7.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.55it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.720440881763527
+Precision: 0.6820428336079077
+Recall: 0.828
+F1 Score: 0.7479674796747967
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.61      0.69       498
+           1       0.68      0.83      0.75       500
+
+    accuracy                           0.72       998
+   macro avg       0.73      0.72      0.72       998
+weighted avg       0.73      0.72      0.72       998
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:49] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:41:55] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.7234468937875751
+Precision: 0.6836065573770492
+Recall: 0.834
+F1 Score: 0.7513513513513513
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.61      0.69       498
+           1       0.68      0.83      0.75       500
+
+    accuracy                           0.72       998
+   macro avg       0.73      0.72      0.72       998
+weighted avg       0.73      0.72      0.72       998
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.7074148296593187
+Precision: 0.6704918032786885
+Recall: 0.818
+F1 Score: 0.736936936936937
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.60      0.67       498
+           1       0.67      0.82      0.74       500
+
+    accuracy                           0.71       998
+   macro avg       0.72      0.71      0.70       998
+weighted avg       0.72      0.71      0.70       998
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.7555110220440882
+Precision: 0.756
+Recall: 0.756
+F1 Score: 0.756
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.76      0.76       498
+           1       0.76      0.76      0.76       500
+
+    accuracy                           0.76       998
+   macro avg       0.76      0.76      0.76       998
+weighted avg       0.76      0.76      0.76       998
+
+
+===== Evaluating Test_8.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.53it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.771859296482412
+Precision: 0.745945945945946
+Recall: 0.828
+F1 Score: 0.7848341232227488
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       495
+           1       0.75      0.83      0.78       500
+
+    accuracy                           0.77       995
+   macro avg       0.78      0.77      0.77       995
+weighted avg       0.78      0.77      0.77       995
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:53] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:44:54] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:45:00] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.7748743718592965
+Precision: 0.7473118279569892
+Recall: 0.834
+F1 Score: 0.7882797731568998
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.72      0.76       495
+           1       0.75      0.83      0.79       500
+
+    accuracy                           0.77       995
+   macro avg       0.78      0.77      0.77       995
+weighted avg       0.78      0.77      0.77       995
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.7758793969849246
+Precision: 0.756007393715342
+Recall: 0.818
+F1 Score: 0.7857829010566763
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.77       495
+           1       0.76      0.82      0.79       500
+
+    accuracy                           0.78       995
+   macro avg       0.78      0.78      0.78       995
+weighted avg       0.78      0.78      0.78       995
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.7989949748743719
+Precision: 0.8289473684210527
+Recall: 0.756
+F1 Score: 0.7907949790794979
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.84      0.81       495
+           1       0.83      0.76      0.79       500
+
+    accuracy                           0.80       995
+   macro avg       0.80      0.80      0.80       995
+weighted avg       0.80      0.80      0.80       995
+
+
+===== Evaluating Test_9.csv =====
+Extracting Features: 100%|██████████| 125/125 [00:14<00:00,  8.56it/s]
+
+Training RandomForest...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+
+=== RandomForest Results ===
+Best Params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Accuracy: 0.720440881763527
+Precision: 0.6820428336079077
+Recall: 0.828
+F1 Score: 0.7479674796747967
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.61      0.69       498
+           1       0.68      0.83      0.75       500
+
+    accuracy                           0.72       998
+   macro avg       0.73      0.72      0.72       998
+weighted avg       0.73      0.72      0.72       998
+
+
+Training XGBoost...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:01] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/home/aman/Home/jupyter_env/lib/python3.12/site-packages/xgboost/training.py:183: UserWarning: [18:48:07] WARNING: /workspace/src/learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+=== XGBoost Results ===
+Best Params: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 100}
+Accuracy: 0.7234468937875751
+Precision: 0.6836065573770492
+Recall: 0.834
+F1 Score: 0.7513513513513513
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.61      0.69       498
+           1       0.68      0.83      0.75       500
+
+    accuracy                           0.72       998
+   macro avg       0.73      0.72      0.72       998
+weighted avg       0.73      0.72      0.72       998
+
+
+Training SVM...
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+
+=== SVM Results ===
+Best Params: {'C': 0.1, 'kernel': 'linear'}
+Accuracy: 0.7074148296593187
+Precision: 0.6704918032786885
+Recall: 0.818
+F1 Score: 0.736936936936937
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.60      0.67       498
+           1       0.67      0.82      0.74       500
+
+    accuracy                           0.71       998
+   macro avg       0.72      0.71      0.70       998
+weighted avg       0.72      0.71      0.70       998
+
+
+Training NaiveBayes...
+Fitting 3 folds for each of 2 candidates, totalling 6 fits
+
+=== NaiveBayes Results ===
+Best Params: {'var_smoothing': 1e-09}
+Accuracy: 0.7555110220440882
+Precision: 0.756
+Recall: 0.756
+F1 Score: 0.756
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.76      0.76       498
+           1       0.76      0.76      0.76       500
+
+    accuracy                           0.76       998
+   macro avg       0.76      0.76      0.76       998
+weighted avg       0.76      0.76      0.76       998

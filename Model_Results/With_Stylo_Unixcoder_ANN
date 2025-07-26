@@ -1,0 +1,187 @@
+Epoch 1: 100%|██████████| 749/749 [04:28<00:00,  2.79it/s]
+Epoch 1 loss: 237.7301
+Epoch 2: 100%|██████████| 749/749 [04:31<00:00,  2.76it/s]
+Epoch 2 loss: 110.5632
+Epoch 3: 100%|██████████| 749/749 [04:31<00:00,  2.76it/s]
+Epoch 3 loss: 45.3771
+Extracting Features: 100%|██████████| 749/749 [01:29<00:00,  8.33it/s]
+FFNN Epoch 1 loss: 89.4513
+FFNN Epoch 2 loss: 40.6974
+FFNN Epoch 3 loss: 31.1545
+FFNN Epoch 4 loss: 13.6080
+FFNN Epoch 5 loss: 13.1704
+FFNN Epoch 6 loss: 7.4912
+FFNN Epoch 7 loss: 11.8676
+FFNN Epoch 8 loss: 7.9887
+FFNN Epoch 9 loss: 4.6176
+FFNN Epoch 10 loss: 4.3489
+
+=== Results for Test_0.csv ===
+Extracting Features: 100%|██████████| 122/122 [00:15<00:00,  8.09it/s]
+Accuracy: 0.889344262295082
+Precision: 0.9135021097046413
+Recall: 0.866
+F1 Score: 0.8891170431211499
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89       476
+           1       0.91      0.87      0.89       500
+
+    accuracy                           0.89       976
+   macro avg       0.89      0.89      0.89       976
+weighted avg       0.89      0.89      0.89       976
+
+
+=== Results for Test_1.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.19it/s]
+Accuracy: 0.814
+Precision: 0.7844202898550725
+Recall: 0.866
+F1 Score: 0.8231939163498099
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.76      0.80       500
+           1       0.78      0.87      0.82       500
+
+    accuracy                           0.81      1000
+   macro avg       0.82      0.81      0.81      1000
+weighted avg       0.82      0.81      0.81      1000
+
+
+=== Results for Test_2.csv ===
+Extracting Features: 100%|██████████| 126/126 [00:15<00:00,  8.27it/s]
+Accuracy: 0.8001998001998002
+Precision: 0.765017667844523
+Recall: 0.866
+F1 Score: 0.8123827392120075
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.73      0.79       501
+           1       0.77      0.87      0.81       500
+
+    accuracy                           0.80      1001
+   macro avg       0.81      0.80      0.80      1001
+weighted avg       0.81      0.80      0.80      1001
+
+
+=== Results for Test_3.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.26it/s]
+Accuracy: 0.7937937937937938
+Precision: 0.756993006993007
+Recall: 0.866
+F1 Score: 0.8078358208955224
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.72      0.78       499
+           1       0.76      0.87      0.81       500
+
+    accuracy                           0.79       999
+   macro avg       0.80      0.79      0.79       999
+weighted avg       0.80      0.79      0.79       999
+
+
+=== Results for Test_4.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.19it/s]
+Accuracy: 0.767
+Precision: 0.7228714524207012
+Recall: 0.866
+F1 Score: 0.7879890809827116
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.67      0.74       500
+           1       0.72      0.87      0.79       500
+
+    accuracy                           0.77      1000
+   macro avg       0.78      0.77      0.76      1000
+weighted avg       0.78      0.77      0.76      1000
+
+
+=== Results for Test_5.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.11it/s]
+Accuracy: 0.889
+Precision: 0.9077568134171907
+Recall: 0.866
+F1 Score: 0.8863868986693961
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89       500
+           1       0.91      0.87      0.89       500
+
+    accuracy                           0.89      1000
+   macro avg       0.89      0.89      0.89      1000
+weighted avg       0.89      0.89      0.89      1000
+
+
+=== Results for Test_6.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.26it/s]
+Accuracy: 0.7628140703517587
+Precision: 0.7192691029900332
+Recall: 0.866
+F1 Score: 0.7858439201451906
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.66      0.73       495
+           1       0.72      0.87      0.79       500
+
+    accuracy                           0.76       995
+   macro avg       0.77      0.76      0.76       995
+weighted avg       0.77      0.76      0.76       995
+
+
+=== Results for Test_7.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.27it/s]
+Accuracy: 0.717434869739479
+Precision: 0.6682098765432098
+Recall: 0.866
+F1 Score: 0.7543554006968641
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.57      0.67       498
+           1       0.67      0.87      0.75       500
+
+    accuracy                           0.72       998
+   macro avg       0.74      0.72      0.71       998
+weighted avg       0.74      0.72      0.71       998
+
+
+=== Results for Test_8.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.26it/s]
+Accuracy: 0.7628140703517587
+Precision: 0.7192691029900332
+Recall: 0.866
+F1 Score: 0.7858439201451906
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.66      0.73       495
+           1       0.72      0.87      0.79       500
+
+    accuracy                           0.76       995
+   macro avg       0.77      0.76      0.76       995
+weighted avg       0.77      0.76      0.76       995
+
+
+=== Results for Test_9.csv ===
+Extracting Features: 100%|██████████| 125/125 [00:15<00:00,  8.27it/s]
+Accuracy: 0.717434869739479
+Precision: 0.6682098765432098
+Recall: 0.866
+F1 Score: 0.7543554006968641
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.57      0.67       498
+           1       0.67      0.87      0.75       500
+
+    accuracy                           0.72       998
+   macro avg       0.74      0.72      0.71       998
+weighted avg       0.74      0.72      0.71       998
+
