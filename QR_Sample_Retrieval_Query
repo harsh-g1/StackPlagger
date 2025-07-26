@@ -1,0 +1,19 @@
+SELECT DISTINCT 
+ TOP 10000 
+ p.id,
+ p.score AS Score,
+ p.title AS Title, 
+ p.body AS Question, 
+ p2.body AS Answer, 
+ p.id AS [Post Link]
+FROM posts p
+INNER JOIN posts p2 ON p2.id = p.AcceptedAnswerId
+INNER JOIN posttags pt ON pt.postid = p.id
+INNER JOIN tags t ON pt.tagid = t.id
+WHERE
+ p.PostTypeId = 1 AND
+ p.AcceptedAnswerId IS NOT NULL AND
+ t.tagname IN ('java') AND
+ p.CreationDate > '2022-01-01'
+ORDER BY
+ p.Score DESC;
