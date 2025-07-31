@@ -4,6 +4,7 @@ import pickle
 import warnings
 import numpy as np
 import re
+import torch
 from threading import Lock
 from transformers import AutoTokenizer, AutoModel
 
